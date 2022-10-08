@@ -1,3 +1,3 @@
 for i in (ls)
-    python3 ~/Documents/MyApps/SepJpgArw/sepjpgarw.py $i
+    python3 ~/Documents/MyApps/SepJpgRaw/sepjpgarw.py $i
 end
