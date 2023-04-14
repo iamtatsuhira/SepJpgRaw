@@ -3,7 +3,7 @@ import os
 import shutil
 
 JPG_EXTENSIONS = set(['jpg', 'JPG'])
-RAW_EXTENSIONS = set(['ARW', 'arw'])
+RAW_EXTENSIONS = set(['ARW', 'arw', 'DNG', 'dng'])
 MTS_EXTENSIONS = set(['MTS', 'mts'])
 MP4_EXTENSIONS = set(['mp4', 'MP4'])
 
